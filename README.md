@@ -47,11 +47,11 @@ There's a course on LinkedIn Learning about asynchronous messaging between micro
 
 As a pre-req for microservices data consistency, you should know about these concepts.
 
-[Distributed Data Stores](###Distributed-Data-Stores)
+[Distributed Data Stores](#Distributed-Data-Stores)
 
-[SQL vs NoSQL databases](####SQL-vs-NoSQL-Databases)
+[SQL vs NoSQL databases](#SQL-vs-NoSQL-Databases)
 
-[ACID vs BASE](####ACID-vs-BASE)
+[ACID vs BASE](#ACID-vs-BASE)
 
 
 Then, we can learn about managing data between microservices. These are some good resources.
