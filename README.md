@@ -4,7 +4,6 @@ This is a guide for learning modern backend tech around these areas:
 - [Microservices Architecture](#Microservices-Architecture)
 - [Cloud Native Development](#Cloud-Native-Development)
 - [Full Stack Polyglot Web Development](#Full-Stack-Polyglot-Web-Development)
-- [Serverless Services](#Serverless-Services)
 - [System Design](#System-Design)
 - [Concepts](#Concepts)
 - [Tools and Techs](#Tools-and-Techs)
@@ -51,8 +50,6 @@ As a pre-req for microservices data consistency, you should know about these con
 [Distributed Data Stores](###Distributed-Data-Stores)
 
 [SQL vs NoSQL databases](####SQL-vs-NoSQL-Databases)
-
-[CAP theorem](####CAP-Theorem)
 
 [ACID vs BASE](####ACID-vs-BASE)
 
@@ -114,9 +111,6 @@ First, we start as an introduction to polyglot development and how to be an expe
 ### Python Flask
 
 
-## Serverless Services
-
-
 
 
 
@@ -133,6 +127,9 @@ Here are some useful system design tech talks and courses.
 [RabbitMQ & Kafka](https://www.youtube.com/watch?v=7Faly8jORIw)
 
 [Cloud Architecture: Advanced Concepts - LinkedIn Learning Course](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-2)
+
+
+### Serverless
 
 [Serverless Architecture - LinkedIn Learning Course](https://www.linkedin.com/learning/serverless-architecture)
 
