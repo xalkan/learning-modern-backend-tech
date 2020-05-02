@@ -65,14 +65,53 @@ Then, we can learn about managing data between microservices. These are some goo
 
 ## Cloud Native Development
 
+### Docker
+
+Let's start with Learning Docker.
+
+[Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+
+[Learning Docker - LinkedIn Learning Course](https://www.linkedin.com/learning/learning-docker-2)
 
 
+### Kubernetes
+
+For learning Kubernetes, there's an excellent learning path on LinkedIn Learning.
+
+[Master Cloud-Native Infrastructure with Kubernetes](https://www.linkedin.com/learning/paths/master-cloud-native-infrastructure-with-kubernetes)
+
+It has the following courses that explore topics such as microservices, cloud native ecosystem, cncf tools, monitoring and service meshes. The last course in this learning path is great to learn about Istio which is kubernetes service mesh layer to connect, secure, control and observe services.
+
+[Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes)
+
+[Kubernetes: Microservices](https://www.linkedin.com/learning/kubernetes-microservices)
+
+[Kubernetes: Native Tools](https://www.linkedin.com/learning/kubernetes-native-tools)
+
+[Kubernetes: Cloud Native Ecosystem](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem)
+
+[Kubernetes: Monitoring with Prometheus](https://www.linkedin.com/learning/kubernetes-monitoring-with-prometheus)
+
+[Kubernetes: Service Mesh with Istio](https://www.linkedin.com/learning/kubernetes-service-mesh-with-istio)
 
 
 ## Full Stack Polyglot Web Development
 
+> Polyglot developers have the ability to master, or have already mastered, developing in multiple programming languages
 
+First, we start as an introduction to polyglot development and how to be an expert generalist. Then we'll focus on specific resources about Javascript and Python web development.
 
+[Polyglot Web Development - LinkedIn Learning Course](https://www.linkedin.com/learning/polyglot-web-development)
+
+### NodeJS and Express
+
+[Node.js Essential Training - LinkedIn Learning Course](https://www.linkedin.com/learning/node-js-essential-training-2)
+
+[Node.js Essential Training: Web Servers, Tests, and Deployment - LinkedIn Learning Course](https://www.linkedin.com/learning/node-js-essential-training-web-servers-tests-and-deployment)
+
+[Express Essential Training](https://www.linkedin.com/learning/express-essential-training)
+
+### Python Flask
 
 
 ## Serverless Services
@@ -104,13 +143,13 @@ To learn more about distributed data storage, start with these videos.
 [Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)
 
 
-#### SQL vs NoSQL Databases
+### SQL vs NoSQL Databases
 [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
-#### CAP Theorem
+### CAP Theorem
 
 
-#### ACID vs BASE
+### ACID vs BASE
 [ACID vs. BASE Explained](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
 
 
