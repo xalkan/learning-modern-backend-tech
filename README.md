@@ -82,17 +82,17 @@ For learning Kubernetes, there's an excellent learning path on LinkedIn Learning
 
 It has the following courses that explore topics such as microservices, cloud native ecosystem, cncf tools, monitoring and service meshes. The last course in this learning path is great to learn about Istio which is kubernetes service mesh layer to connect, secure, control and observe services.
 
-[Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes)
+[Learning Kubernetes - LinkedIn Learning Course](https://www.linkedin.com/learning/learning-kubernetes)
 
-[Kubernetes: Microservices](https://www.linkedin.com/learning/kubernetes-microservices)
+[Kubernetes: Microservices - LinkedIn Learning Course](https://www.linkedin.com/learning/kubernetes-microservices)
 
-[Kubernetes: Native Tools](https://www.linkedin.com/learning/kubernetes-native-tools)
+[Kubernetes: Native Tools - LinkedIn Learning Course](https://www.linkedin.com/learning/kubernetes-native-tools)
 
-[Kubernetes: Cloud Native Ecosystem](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem)
+[Kubernetes: Cloud Native Ecosystem - LinkedIn Learning Course](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem)
 
-[Kubernetes: Monitoring with Prometheus](https://www.linkedin.com/learning/kubernetes-monitoring-with-prometheus)
+[Kubernetes: Monitoring with Prometheus - LinkedIn Learning Course](https://www.linkedin.com/learning/kubernetes-monitoring-with-prometheus)
 
-[Kubernetes: Service Mesh with Istio](https://www.linkedin.com/learning/kubernetes-service-mesh-with-istio)
+[Kubernetes: Service Mesh with Istio - LinkedIn Learning Course](https://www.linkedin.com/learning/kubernetes-service-mesh-with-istio)
 
 
 ## Full Stack Polyglot Web Development
@@ -109,7 +109,7 @@ First, we start as an introduction to polyglot development and how to be an expe
 
 [Node.js Essential Training: Web Servers, Tests, and Deployment - LinkedIn Learning Course](https://www.linkedin.com/learning/node-js-essential-training-web-servers-tests-and-deployment)
 
-[Express Essential Training](https://www.linkedin.com/learning/express-essential-training)
+[Express Essential Training - LinkedIn Learning Course](https://www.linkedin.com/learning/express-essential-training)
 
 ### Python Flask
 
@@ -122,6 +122,8 @@ First, we start as an introduction to polyglot development and how to be an expe
 
 ## System Design
 
+Here are some useful system design tech talks and courses.
+
 [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 
 [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
@@ -131,6 +133,8 @@ First, we start as an introduction to polyglot development and how to be an expe
 [RabbitMQ & Kafka](https://www.youtube.com/watch?v=7Faly8jORIw)
 
 [Cloud Architecture: Advanced Concepts - LinkedIn Learning Course](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-2)
+
+[Serverless Architecture - LinkedIn Learning Course](https://www.linkedin.com/learning/serverless-architecture)
 
 
 ## Concepts
@@ -142,11 +146,13 @@ To learn more about distributed data storage, start with these videos.
 
 [Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)
 
+[CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+
+[Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
+
 
 ### SQL vs NoSQL Databases
 [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-
-### CAP Theorem
 
 
 ### ACID vs BASE
@@ -154,4 +160,20 @@ To learn more about distributed data storage, start with these videos.
 
 
 ## Tools and Techs
+
+Following tools will help with achieving whatever we want to do with all of the above.
+
+### Message Queues
+
+[Kafka Essential Training - LinkedIn Learning Course](https://www.linkedin.com/learning/kafka-essential-training)
+
+[RabbitMQ & Kafka - Tech Talk](https://www.youtube.com/watch?v=7Faly8jORIw)
+
+### Automation
+
+[Learning Jenkins - LinkedIn Learning Course](https://www.linkedin.com/learning/learning-jenkins)
+
+### NoSQL Databases
+
+[Learning NoSQL Databases - LinkedIn Learning Course](https://www.linkedin.com/learning/learning-nosql-databases)
 
